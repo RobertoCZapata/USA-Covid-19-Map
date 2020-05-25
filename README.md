@@ -11,3 +11,4 @@ Para instalar los paquetes del proyecto se debe iniciar con "npm install".
 Para correr el proyecto una vez instalado los paquetes con "npm start".
 Por medio de la API https://www.trackcorona.live/api/countries/us, logro filtrar solo los casos de Estados Unidos.
 Por medio de la API https://www.trackcorona.live/api/provinces, logro filtrar solo los casos por estado.
+El aplicativo esta en desarrollo: https://usa-covid-19-map.now.sh/
